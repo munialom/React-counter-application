@@ -1,3 +1,9 @@
+![image](https://user-images.githubusercontent.com/32845522/159248450-28f4747c-ea1e-422f-8435-70ee1fcbe4be.png)
+
+#key take points from this project
+we learn to use class componets , function components , properties and use of state in react which are key towards mastering react in a deeper aspect. Thanks !!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
